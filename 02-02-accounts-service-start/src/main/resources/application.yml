@@ -1,0 +1,24 @@
+spring:
+  application:
+     name: accounts-service
+     
+  datasource:
+    url: jdbc:mysql://localhost/micro
+    username: root
+    password: root
+  jpa:
+    generate-ddl: true
+
+    
+server:
+  port: 2001
+  
+logging:
+  level: 
+    httpclient.wire: DEBUG 
+    
+    
+  
+ 
+ 
+  

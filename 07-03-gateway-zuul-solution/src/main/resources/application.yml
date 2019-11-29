@@ -1,0 +1,44 @@
+spring:
+  application:
+     name: gateway
+
+zuul:
+  prefix: /api
+  ignored-services: /*
+   
+  routes:
+    quotes-service: /qs/*
+    portfolio-service: /ps/*
+  
+  
+
+
+server:
+  port: 1234
+  
+  error:
+    whitelabel:
+      enabled: false
+
+hystrix:
+  command:
+    default:
+      execution:
+        timeout:
+          enabled: false
+
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${random.value} 
+       
+  client:    
+    serviceUrl:
+      defaultZone: http://localhost:5001/eureka
+
+
+
+logging:
+  pattern:
+    console: "%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint} %clr(%5p) %clr(${PID:- }){magenta} %clr(---){faint} %clr([trace=%X{X-Trace-Id:-},span=%X{X-Span-Id:-}]){yellow} %clr([%15.15t]){faint} %clr(%-40.40logger{39}){cyan} %clr(:){faint} %m%replace(%xException){'\n','\u2028'}%nopex%n"
+  
+     

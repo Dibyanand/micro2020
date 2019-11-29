@@ -1,0 +1,11 @@
+server:
+  port: 5001
+ 
+eureka:  client:    fetch-registry: false
+
+
+
+
+    
+ 
+  

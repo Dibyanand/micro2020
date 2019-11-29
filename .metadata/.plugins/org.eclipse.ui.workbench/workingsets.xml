@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543325349416_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=02-01-eureka-server-start/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-01-eureka-server-start/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-02-accounts-service-start/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-02-accounts-service-start/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-03-quotes-service-start/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-03-quotes-service-start/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-04-portfolio-service-start/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-04-portfolio-service-start/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-05-way2learntrader-web-start/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-05-way2learntrader-web-start/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Way2learnTraderApp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Way2learnTraderApp/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543325349428_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=02-01-eureka-server-start/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-02-accounts-service-start/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-03-quotes-service-start/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-04-portfolio-service-start/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-05-way2learntrader-web-start/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Way2learnTraderApp/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543333768310_3" label="01-monolith" name="01-monolith">
+<item elementID="=Way2learnTraderApp" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543334406742_5" label="02-spring-cloud-eureka" name="02-spring-cloud-eureka">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-02-accounts-service-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-05-way2learntrader-web-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-01-eureka-server-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-04-portfolio-service-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-03-quotes-service-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543362902594_10" label="02-spring-cloud-eureka-start" name="02-spring-cloud-eureka-start">
+<item elementID="=02-04-portfolio-service-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-05-way2learntrader-web-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-03-quotes-service-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-01-eureka-server-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-02-accounts-service-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543365171596_11" label="03-spring-cloud-commons" name="03-spring-cloud-commons">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-01-quotes-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-01-eureka-server-common" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543365334324_12" label="04-spring-cloud-ribbon" name="04-spring-cloud-ribbon">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-02-portfolio-service-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-01-quotes-service-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-03-portfolio-service-loadbalanced-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-02-portfolio-service-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-03-portfolio-service-loadbalanced-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543387671723_13" label="05-spring-cloud-hystrix" name="05-spring-cloud-hystrix">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-01-quotes-service-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-03-hystrix-dashboard" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-02-portfolio-service-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-02-portfolio-service-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543391212446_10" label="06-spring-cloud-feign" name="06-spring-cloud-feign">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-01-quotes-service-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-02-portfolio-service-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-02-portfolio-service-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543394896970_11" label="07-spring-cloud-api-gateway" name="07-spring-cloud-api-gateway">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-03-gateway-zuul-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-04-portfolio-service-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-04-portfolio-service-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-03-gateway-zuul-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543397478448_12" label="08-spring-cloud-config" name="08-spring-cloud-config">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-01-spring-cloud-config-server-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-02-spring-cloud-config-client-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-01-spring-cloud-config-server-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543459621609_13" label="11-elk" name="11-elk">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/11-02-quotes-service-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543461799682_14" label="12-sleuth-zipkin" name="12-sleuth-zipkin">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/12-01-quotes-service-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/12-03-Zipkin-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/12-02-portfolio-service-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543476793890_16" label="13-oauth2" name="13-oauth2"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543325355384_2" label="Window Working Set" name="Aggregate for window 1543325355383"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543462560219_15" label="Window Working Set" name="Aggregate for window 1543462560219"/>
+<mruList name="12-sleuth-zipkin"/>
+<mruList name="11-elk"/>
+<mruList name="08-spring-cloud-config"/>
+<mruList name="06-spring-cloud-feign"/>
+<mruList name="04-spring-cloud-ribbon"/>
+</workingSetManager>

@@ -1,0 +1,36 @@
+spring:
+  application:
+     name: portfolio-service
+  datasource:
+    url: jdbc:mysql://localhost/micro
+    username: root
+    password: root
+  jpa:
+    generate-ddl: true
+
+
+
+eureka:
+  
+  instance:
+    hostname: localhost
+    
+    instance-id: ${spring.application.name}:${random.value} 
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:5001/eureka/
+server:
+  port: 2003
+  
+
+pivotal:
+  quotesService:
+    name: quotes-service
+  accountsService:
+    name: accounts-service
+  portfolioService:
+    name: portfolio-service
+logging:
+  pattern:
+    console: "%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint} %clr(%5p) %clr(${PID:- }){magenta} %clr(---){faint} %clr([trace=%X{X-Trace-Id:-},span=%X{X-Span-Id:-}]){yellow} %clr([%15.15t]){faint} %clr(%-40.40logger{39}){cyan} %clr(:){faint} %m%replace(%xException){'\n','\u2028'}%nopex%n"
+  

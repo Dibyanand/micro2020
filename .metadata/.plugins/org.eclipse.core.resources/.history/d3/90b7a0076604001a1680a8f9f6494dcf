@@ -1,0 +1,12 @@
+server:
+  port: 5001
+ 
+ eureka:
+       client:
+       fetch-registry:false
+       registroy-with-eureka:false
+       
+      instance:
+       hostname:localhost
+ 
+  

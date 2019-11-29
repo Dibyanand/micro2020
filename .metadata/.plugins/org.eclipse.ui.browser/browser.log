@@ -1,0 +1,37 @@
+
+Feb 14, 2019 19:16:16.28 NEW SESSION
+Feb 14, 2019 19:16:16.28 [2796:780:0214/191616.286:ERROR:browser_process_sub_thread.cc(209)] Waited 28 ms for network service
+Feb 14, 2019 20:55:12.33 [5556:11332:0214/205512.334:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Feb 14, 2019 20:55:14.34 [5556:11332:0214/205514.343:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 14, 2019 20:55:18.36 [5556:11332:0214/205518.367:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 14, 2019 20:55:38.26 [5556:11332:0214/205538.265:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -100
+Feb 15, 2019 07:37:34.70 [5556:3908:0215/073734.696:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 15, 2019 07:37:34.98 [5556:11332:0215/073734.983:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Feb 15, 2019 07:37:40.70 [5556:11332:0215/073740.702:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2019 07:37:58.45 [5556:3908:0215/073758.451:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 15, 2019 07:38:03.18 [5556:11332:0215/073803.180:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2019 07:38:38.18 [5556:11332:0215/073838.187:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Feb 15, 2019 07:38:41.17 [5556:11332:0215/073841.178:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Feb 15, 2019 08:09:18.53 [5556:11332:0215/080918.536:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+Feb 15, 2019 14:29:03.00 [5556:11332:0215/142903.004:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2019 14:29:30.32 [5556:11332:0215/142930.321:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2019 16:04:54.99 [5556:11332:0215/160454.998:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2019 16:04:55.00 [5556:3908:0215/160455.000:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 15, 2019 16:04:59.39 [5556:11332:0215/160459.389:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2019 16:05:16.01 [5556:3908:0215/160516.010:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 15, 2019 16:06:09.17 [5556:3908:0215/160609.171:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 15, 2019 16:07:49.21 [5556:3908:0215/160749.217:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 15, 2019 16:08:25.67 [5556:11332:0215/160825.672:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2019 16:11:25.45 [5556:3908:0215/161125.455:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 15, 2019 16:59:22.06 [5556:11332:0215/165922.064:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2019 16:59:22.61 [5556:3908:0215/165922.608:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 15, 2019 16:59:27.34 [5556:11332:0215/165927.348:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2019 16:59:55.68 [5556:11332:0215/165955.680:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Feb 15, 2019 17:00:19.68 [5556:11332:0215/170019.686:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -118
+Feb 15, 2019 17:03:25.80 [5556:11332:0215/170325.803:ERROR:browser_process_sub_thread.cc(209)] Waited 28 ms for network service
+
+Feb 16, 2019 21:06:26.62 NEW SESSION
+Feb 16, 2019 21:06:26.62 [9924:7532:0216/210626.608:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2019 21:06:49.11 [9924:7532:0216/210649.109:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2019 21:07:30.56 [9924:7532:0216/210730.563:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Feb 16, 2019 21:58:37.85 [9924:7532:0216/215837.856:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -105

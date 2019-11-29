@@ -1,0 +1,63 @@
+
+eureka:  
+  server:
+    enable-self-preservation: false   
+  instance:
+    hostname: localhost   
+  client:
+    fetch-registry: false
+    register-with-eureka: false 
+server: 
+  port: 5001 
+  
+---
+
+spring:
+  profiles: eurekaone
+server:
+  port: 4002  
+eureka:
+  instance:
+    hostname: eureka-primary
+   
+  client:
+    
+    fetch-registry: true
+    register-with-eureka: false    
+    serviceUrl:
+      defaultZone: http://eureka-secondary:4003/eureka,http://eureka-tertiary:4004/eureka
+ 
+
+  
+---
+
+spring:
+  profiles: eurekatwo
+server:
+  port: 4003
+eureka:  
+  instance:
+    
+    hostname: eureka-secondary
+  client:
+    fetch-registry: true
+    register-with-eureka: false    
+    serviceUrl:
+      defaultZone: http://eureka-primary:4002/eureka,http://eureka-tertiary:4004/eureka
+    
+---
+
+spring:
+  profiles: eurekathree
+server:
+  port: 4004
+eureka:
+  instance:
+   
+    hostname: eureka-tertiary
+  client:
+    fetch-registry: true
+    register-with-eureka: false    
+    serviceUrl:
+      defaultZone: http://eureka-primary:4002/eureka,http://eureka-secondary:4003/eureka
+    

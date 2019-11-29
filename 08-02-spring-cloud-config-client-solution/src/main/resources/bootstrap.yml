@@ -1,0 +1,7 @@
+spring:  
+  application:
+    name: springcloudconfigclient
+  cloud:
+    config:
+      uri: http://localhost:4000
+      fail-fast: true
